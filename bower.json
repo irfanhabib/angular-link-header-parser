@@ -3,8 +3,8 @@
   "version"     : "1.0.3",
   "authors"     : [
     {
-      "name" : "Ismael Gorissen",
-      "email": "ismael.gorissen@gmail.com"
+      "name" : "Irfan Habib",
+      "email": "irfan@irfanhabib.com"
     }
   ],
   "description" : "AngularJS factory that parse Link header and return a JSON object.",
@@ -23,7 +23,7 @@
   },
   "repository"  : {
     "type": "git",
-    "url" : "https://github.com/igorissen/angular-link-header-parser.git"
+    "url" : "https://github.com/irfanhabib/angular-link-header-parser.git"
   },
   "keywords"    : [
     "headers",
